@@ -87,7 +87,7 @@ This avoids:
 
 ## 🧪 Supported Attacks
 
-AntiStyler is evaluated against:
+AntiStyler was evaluated against:
 
 - Google Adversarial Patch  
 - M-PGD  
