@@ -109,7 +109,7 @@ jupyter notebook AntiStyler_Demo.ipynb
 
 This notebook demonstrates:
 - Attack Generation
-- AntiStyler Pipeline
+- AntiStyler's Pipeline
 - AntiStyler's Effect on Benign and Adversarial Images
 
  ---
