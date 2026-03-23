@@ -54,7 +54,9 @@ Apply morphological operations:
 
 ## 📊 Results
 
-![Results](AntiStyler%20results.png)
+![Results](AntiStyler%20results%20COCO.png)
+
+![Results](AntiStyler%20results%20INRIA.png)
 
 ### Key Findings
 
