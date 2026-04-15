@@ -1,7 +1,7 @@
 # 🛡️ AntiStyler  
 **Defending Object Detection Models Against Adversarial Patch Attacks Using Style Removal**
 
-> Official implementation of the CVPR 2026 paper  
+> Official implementation of the CVPR 2026 paper:  
 > *AntiStyler: Defending Object Detection Models Against Adversarial Patch Attacks Using Style Removal*
 
 ---
