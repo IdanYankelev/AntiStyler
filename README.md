@@ -121,7 +121,14 @@ This notebook demonstrates:
 If you use this work in your research, please cite:
 
 ```bibtex
-TBD
+@InProceedings{Yankelev_2026_CVPR,
+    author    = {Yankelev, Idan and Grolman, Edita and Levi, Yarin Yerushalmi and Giloni, Amit and Hofman, Omer and Shimizu, Toshiya and Elovici, Yuval and Shabtai, Asaf},
+    title     = {{AntiStyler}: Defending Object Detection Models Against Adversarial Patch Attacks Using Style Removal},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {27936--27945}
+}
 ```
 
 ## 🙌 Acknowledgements
